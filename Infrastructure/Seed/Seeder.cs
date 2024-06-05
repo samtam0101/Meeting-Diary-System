@@ -65,8 +65,7 @@ public class Seeder(DataContext context, ILogger<Seeder> logger,IHashService has
                 Name = "Admin",
                 Email = "admin@gmail.com",
                 Password = hashService.ConvertToHash("12345"),
-                RegistrationDate = DateTime.UtcNow,
-                Photo = "Users/samir/Downloads/qrcode-logo-design-smilie.jpeg"
+                RegistrationDate = DateTime.UtcNow
             };
             await context.Users.AddAsync(admin);
             await context.SaveChangesAsync();
@@ -99,8 +98,7 @@ public class Seeder(DataContext context, ILogger<Seeder> logger,IHashService has
                 Name = "User",
                 Email = "user@gmail.com",
                 Password = hashService.ConvertToHash("12345"),
-                RegistrationDate = DateTime.UtcNow,
-                Photo = "Users/samir/Downloads/OOP-Implementation.png"
+                RegistrationDate = DateTime.UtcNow
             };
             await context.Users.AddAsync(user);
             await context.SaveChangesAsync();

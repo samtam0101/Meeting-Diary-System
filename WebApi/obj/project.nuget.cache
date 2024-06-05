@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HcgvwwjfFS3FlffoGpif8zVzOV4MUZ3X5wcFxLHls2YIEj6TXeurJabpZ6rOJAhooIsCyJbn15VYARpXKSEO6A==",
+  "dgSpecHash": "OyIFb9DpGhbndZlUaebLbYCageE174yT0FlNaFSZ/ACjLySRfR4KUU0WoJeEcpaUrf2M9OXHFgUukvAzCiyPGw==",
   "success": true,
-  "projectFilePath": "/Users/samir/Desktop/Meeting Diary System/WebApi/WebApi.csproj",
+  "projectFilePath": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/samir/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/samir/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

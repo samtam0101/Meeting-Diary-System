@@ -2175,11 +2175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samir/Desktop/Meeting Diary System/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/samir/Desktop/Meeting Diary System/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/samir/.nuget/packages/",
-      "outputPath": "/Users/samir/Desktop/Meeting Diary System/Infrastructure/obj/",
+      "outputPath": "/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samir/.nuget/NuGet/NuGet.Config"
@@ -2194,8 +2194,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/samir/Desktop/Meeting Diary System/Domain/Domain.csproj": {
-              "projectPath": "/Users/samir/Desktop/Meeting Diary System/Domain/Domain.csproj"
+            "/Users/samir/Desktop/Meeting-Diary-System/Domain/Domain.csproj": {
+              "projectPath": "/Users/samir/Desktop/Meeting-Diary-System/Domain/Domain.csproj"
             }
           }
         }

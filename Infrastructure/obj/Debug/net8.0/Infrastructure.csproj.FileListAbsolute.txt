@@ -13,3 +13,19 @@
 /Users/samir/Desktop/Meeting Diary System/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /Users/samir/Desktop/Meeting Diary System/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /Users/samir/Desktop/Meeting Diary System/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CopyComplete
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

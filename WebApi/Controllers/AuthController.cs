@@ -9,7 +9,7 @@ namespace WebApi.Controllers;
 public class AuthController(IAuthService authService):ControllerBase
 {
     [HttpPost("Register")]
-    public async Task<Response<string>> Register([FromForm]RegisterDto registerDto)
+    public async Task<Response<string>> Register([FromBody]RegisterDto registerDto)
     {
         return await authService.Register(registerDto);
     }

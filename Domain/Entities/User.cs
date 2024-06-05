@@ -9,7 +9,6 @@ public class User
     public DateTime RegistrationDate { get; set; }
     public string? Code { get; set; }
     public DateTimeOffset CodeTime { get; set; }
-    public string? Photo { get; set; }
     public List<Meeting>? Meetings { get; set; }
     public List<UserRole>? UserRoles { get; set; }
     public List<Notification>? Notifications { get; set; }

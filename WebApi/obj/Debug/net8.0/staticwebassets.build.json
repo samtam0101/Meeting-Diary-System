@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ZBYBOd/3pCwrjdWAWXv6nM+GWpPcTFmxA8z5v0QlnM=",
+  "Hash": "k2YYGad25maSOI8L4JGSbADR/MDHStBvNWnI9rV5eIY=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApi/wwwroot",
       "Source": "WebApi",
-      "ContentRoot": "/Users/samir/Desktop/Meeting Diary System/WebApi/wwwroot/",
+      "ContentRoot": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/wwwroot/",
       "BasePath": "_content/WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/samir/Desktop/Meeting Diary System/WebApi/wwwroot/images/51593e64-0a96-45cf-8804-d6f389a907a2.jpg",
+      "Identity": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/wwwroot/images/51593e64-0a96-45cf-8804-d6f389a907a2.jpg",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/samir/Desktop/Meeting Diary System/WebApi/wwwroot/",
+      "ContentRoot": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/wwwroot/",
       "BasePath": "_content/WebApi",
       "RelativePath": "images/51593e64-0a96-45cf-8804-d6f389a907a2.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/images/51593e64-0a96-45cf-8804-d6f389a907a2.jpg"
     },
     {
-      "Identity": "/Users/samir/Desktop/Meeting Diary System/WebApi/wwwroot/images/6683c2b8-7c6e-4357-a9cc-60224548fed2.jpg",
+      "Identity": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/wwwroot/images/6683c2b8-7c6e-4357-a9cc-60224548fed2.jpg",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/samir/Desktop/Meeting Diary System/WebApi/wwwroot/",
+      "ContentRoot": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/wwwroot/",
       "BasePath": "_content/WebApi",
       "RelativePath": "images/6683c2b8-7c6e-4357-a9cc-60224548fed2.jpg",
       "AssetKind": "All",

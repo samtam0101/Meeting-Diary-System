@@ -12,5 +12,4 @@ public class RegisterDto
     public string Password { get; set; }
     [Compare("Password")]
     public string ConfirmPassword { get; set; }
-    public IFormFile? Photo { get; set; }
 }

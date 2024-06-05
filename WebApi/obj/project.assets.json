@@ -6127,11 +6127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samir/Desktop/Meeting Diary System/WebApi/WebApi.csproj",
+      "projectUniqueName": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "/Users/samir/Desktop/Meeting Diary System/WebApi/WebApi.csproj",
+      "projectPath": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/WebApi.csproj",
       "packagesPath": "/Users/samir/.nuget/packages/",
-      "outputPath": "/Users/samir/Desktop/Meeting Diary System/WebApi/obj/",
+      "outputPath": "/Users/samir/Desktop/Meeting-Diary-System/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samir/.nuget/NuGet/NuGet.Config"
@@ -6146,11 +6146,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/samir/Desktop/Meeting Diary System/Domain/Domain.csproj": {
-              "projectPath": "/Users/samir/Desktop/Meeting Diary System/Domain/Domain.csproj"
+            "/Users/samir/Desktop/Meeting-Diary-System/Domain/Domain.csproj": {
+              "projectPath": "/Users/samir/Desktop/Meeting-Diary-System/Domain/Domain.csproj"
             },
-            "/Users/samir/Desktop/Meeting Diary System/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/samir/Desktop/Meeting Diary System/Infrastructure/Infrastructure.csproj"
+            "/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/Infrastructure.csproj"
             }
           }
         }

@@ -23,8 +23,7 @@ public class UserService(DataContext context, ILogger<UserService> logger) : IUs
                 Name = x.Name,
                 Id = x.Id,
                 Password = x.Password,
-                RegistrationDate = DateTime.UtcNow,
-                Photo = x.Photo
+                RegistrationDate = DateTime.UtcNow
             }).FirstOrDefaultAsync(x => x.Id == userId);
 
             logger.LogInformation("Finished method {GetUserByIdAsync} in time:{DateTime} ", "GetUserByIdAsync",
@@ -58,8 +57,7 @@ public class UserService(DataContext context, ILogger<UserService> logger) : IUs
                 Name = x.Name,
                 Email = x.Email,
                 RegistrationDate = DateTime.UtcNow,
-                Password = x.Password,
-                Photo = x.Photo
+                Password = x.Password
             }).Skip((filter.PageNumber - 1) * filter.PageSize).Take(filter.PageSize).ToListAsync();
 
             var totalRecord = await users.CountAsync();

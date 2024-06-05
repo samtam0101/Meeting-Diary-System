@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7NrygD8ySfakoBrg4p5wDQXAyjnln6H0XrAd6PpAG44NsjRIwPn26cs19+bGFlDCuZiC5ao3B2zWNvEtqW+vig==",
+  "dgSpecHash": "wHSjzKmWbMNYDMqMLIANXk8gDvQwgqrc1r6q5aezJpYvJdiHNlm+rCGisMecA4B9xUkyPPcN/qXn9mHHmBGLaw==",
   "success": true,
-  "projectFilePath": "/Users/samir/Desktop/Meeting Diary System/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/Users/samir/Desktop/Meeting-Diary-System/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/samir/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/samir/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

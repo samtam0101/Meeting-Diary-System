@@ -147,8 +147,7 @@ public class AuthService(DataContext context, ILogger<AuthService> logger, IHash
                 Name = registerDto.UserName,
                 Email = registerDto.Email,
                 Password = hashService.ConvertToHash(registerDto.Password),
-                RegistrationDate = DateTime.UtcNow,
-                //Photo = registerDto.Photo == null ? "null" : await fileService.CreateFile(registerDto.Photo)
+                RegistrationDate = DateTime.UtcNow
             };
             var res = await context.Users.AddAsync(user);
             await context.SaveChangesAsync();

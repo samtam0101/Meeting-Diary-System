@@ -782,11 +782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samir/Desktop/Meeting Diary System/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/samir/Desktop/Meeting-Diary-System/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/samir/Desktop/Meeting Diary System/Domain/Domain.csproj",
+      "projectPath": "/Users/samir/Desktop/Meeting-Diary-System/Domain/Domain.csproj",
       "packagesPath": "/Users/samir/.nuget/packages/",
-      "outputPath": "/Users/samir/Desktop/Meeting Diary System/Domain/obj/",
+      "outputPath": "/Users/samir/Desktop/Meeting-Diary-System/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samir/.nuget/NuGet/NuGet.Config"
